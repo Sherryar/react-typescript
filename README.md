@@ -11,7 +11,7 @@
 <p>Distance from B-->H ==> 10 (B->D->G->H)</p>
 </div>
 
-<h2>Sources</h2>
+<h2>(Re)Sources</h2>
 <ul>
 <li>https://gist.github.com/bellbind/3088707</li>
 <li>https://github.com/andrewhayward/dijkstra</li>

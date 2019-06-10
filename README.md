@@ -23,3 +23,6 @@
 <li>https://github.com/tcort/dijkstrajs</li>
 <li>https://guide.freecodecamp.org/algorithms/graph-algorithms/dijkstra/</li>
 </ul>
+
+<h2>Widget stuff/comments</h2>
+<p>3 components.  Container -> special widgets (widget).  So from the SASS code then, already overlapping and </p>
